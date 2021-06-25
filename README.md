@@ -1,6 +1,6 @@
 # 🌑 📜 ✂️
 
-# Rock-Paper-Scissors-hackathon
+# Rock Paper Scissors Hackathon
 
 ## School of Code Week 1 Day 5 📅
 
