@@ -1,0 +1,29 @@
+/* body{
+    background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX10591584.jpg");
+    background-position: center;
+    height: 50px;
+} */
+
+header {
+  text-align: center;
+  font-size: 50px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.rock {
+  height: 300px;
+  width: 300px;
+}
+#rock {
+  width: 100px;
+}
+
+#scissors {
+  height: 300px;
+  width: 300px;
+}
+
+#paper {
+  height: 300px;
+  width: 300px;
+}
